@@ -1,6 +1,6 @@
 // Verilog code for a 4-bit up/down counter
 
-module counter_up_down_3 (
+module counter_up_down_4 (
     up_down,  //count control
     clk,  //clock
     rst,  //reset
